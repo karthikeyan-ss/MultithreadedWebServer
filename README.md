@@ -58,7 +58,7 @@ To simulate multiple concurrent users, **Apache JMeter** was used:
 - 🎯 The **ThreadPool Server** provides a balance between performance and resource usage.
 
 ## 🙌 Credits
-This project was built by **Karthikeyan SS**, inspired by a **YouTube tutorial** by [AlphaDecodeX](https://github.com/AlphaDecodeX).
+This project was built by **Sravan Karthikeyan Seela**, inspired by a **YouTube tutorial** by [AlphaDecodeX](https://github.com/AlphaDecodeX).
 
 ## 📜 License
 This project is open-source and available under the **MIT License**.
